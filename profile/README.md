@@ -33,5 +33,5 @@ Voici les différentes matières et projets que j’ai réalisés durant ma lice
 
 ## 📫 **Me contacter**
 📧 Mail : `nathanieladompo@gmail.com`  
-🔗 LinkedIn : [linkedin.com/in/tonprofil](https://www.linkedin.com/in/nathaniel-adompo-73b1bb350/)
+🔗 LinkedIn : [linkedin.com/in/nathaniel-adompo](https://www.linkedin.com/in/nathaniel-adompo-73b1bb350/)
 
