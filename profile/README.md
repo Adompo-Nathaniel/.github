@@ -11,16 +11,16 @@ Voici les différentes matières et projets que j’ai réalisés durant ma lice
 
 | 📂 **Nom du projet**            | 🛠️ **Technologies**                  | 🔍 **Description** |
 |---------------------------------|--------------------------------|----------------------|
-| [Algorithmique](https://github.com/ton-username/Algorithmique) | Python, C++ | Concepts fondamentaux d'algorithmique. |
-| [Base de Données](https://github.com/ton-username/BDD) | SQL, PostgreSQL | Gestion et modélisation de bases de données. |
-| [Programmation C++](https://github.com/ton-username/C-) | C++ | Concepts avancés de programmation en C++. |
-| [Programmation Orientée Objet](https://github.com/ton-username/Programmation-Objet) | Java, UML | Concepts d'encapsulation, héritage, polymorphisme. |
-| [Réseaux Informatiques](https://github.com/ton-username/Reseaux) | TCP/IP, Socket | Protocoles et communications réseau. |
-| [Système d'Exploitation](https://github.com/ton-username/Systeme-exploitation) | Linux, Bash | Administration et gestion des processus. |
-| [HPC (High Performance Computing)](https://github.com/ton-username/HPC) | MPI, OpenMP | Programmation parallèle et distribuée. |
-| [Administration Système](https://github.com/ton-username/Administration-systeme) | Linux, Docker | Gestion et supervision des systèmes. |
-| [Programmation Répartie](https://github.com/ton-username/Client-Server) | REST, Sockets, RabbitMQ | Développement d’applications réparties. |
-| [Synthèse d’image & Calcul Matriciel](https://github.com/ton-username/Unity) | Unity, Scilab, Matlab | Modélisation et rendu 3D. |
+| [Algorithmique](https://github.com/Adompo-Nathaniel/Algorithmique) | Python, C++ | Concepts fondamentaux d'algorithmique. |
+| [Base de Données](https://github.com/Adompo-Nathaniel/Bases-de-donnees) | SQL, PostgreSQL | Gestion et modélisation de bases de données. |
+| [Programmation C++](https://github.com/Adompo-Nathaniel/Methodes-de-programmation-orientee-objet-Cpp) | C++ | Concepts avancés de programmation en C++. |
+| [Programmation Orientée Objet](https://github.com/Adompo-Nathaniel/Programmation-Objet) | Java, UML | Concepts d'encapsulation, héritage, polymorphisme. |
+| [Réseaux Informatiques](https://github.com/Adompo-Nathaniel/Reseaux) | TCP/IP, Socket | Protocoles et communications réseau. |
+| [Système d'Exploitation](https://github.com/Adompo-Nathaniel/Systeme-exploitation) | Linux, Bash | Administration et gestion des processus. |
+| [HPC (High Performance Computing)](https://github.com/Adompo-Nathaniel/HPC-High-Performance-Computing) | MPI, OpenMP | Programmation parallèle et distribuée. |
+| [Administration Système](https://github.com/Adompo-Nathaniel/Administration-systeme) | Linux, Docker | Gestion et supervision des systèmes. |
+| [Programmation Répartie](https://github.com/Adompo-Nathaniel/Programmation-Repartie) | REST, Sockets, RabbitMQ | Développement d’applications réparties. |
+| [Synthèse d’image & Calcul Matriciel](https://github.com/Adompo-Nathaniel/Synthese-image-et-Calcul-Matriciel) | Unity, Scilab, Matlab | Modélisation et rendu 3D. |
 
 ---
 
@@ -32,6 +32,6 @@ Voici les différentes matières et projets que j’ai réalisés durant ma lice
 ---
 
 ## 📫 **Me contacter**
-📧 Mail : `ton.email@example.com`  
-🔗 LinkedIn : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)
+📧 Mail : `nathanieladompo@gmail.com`  
+🔗 LinkedIn : [linkedin.com/in/tonprofil](https://www.linkedin.com/in/nathaniel-adompo-73b1bb350/)
 
